@@ -106,3 +106,21 @@ jobs:
           plugin_rss: yes
           plugin_rss_source: https://domenicoluciani.com/feed.xml  # RSS feed
           plugin_rss_limit: 5                                  # Limit to 6 items
+
+      - name: Full history calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.calendar.full.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+          
+          
+      - name: Gists
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.gists.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_gists: yes
