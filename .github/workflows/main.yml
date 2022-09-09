@@ -84,28 +84,6 @@ jobs:
           plugin_stars_limit: 4
           base: ""
           config_timezone: Europe/Paris
-          
-      - name: Plugin Stackoverflow
-        uses: lowlighter/metrics@latest
-        with:
-          filename: stack.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 1633187                           # Stackoverflow user id (required)
-          plugin_stackoverflow_sections: answers-top # Display top answers and recent questions
-          plugin_stackoverflow_limit: 1                                # Display 2 entries per section
-          plugin_stackoverflow_lines: 1                                # Display 4 lines per entry
-
-      - name: Rss Plugin
-        uses: lowlighter/metrics@latest
-        with:
-          filename: rss.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_rss: yes
-          plugin_rss_source: https://domenicoluciani.com/feed.xml  # RSS feed
-          plugin_rss_limit: 5                                  # Limit to 6 items
 
       - name: Full history calendar
         uses: lowlighter/metrics@latest
@@ -114,7 +92,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_calendar: yes
-          plugin_calendar_limit: 0
+          plugin_calendar_limit: 3
           
           
       - name: Gists
@@ -134,5 +112,5 @@ jobs:
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_attachments: yes
-          plugin_tweets_user: github
+          plugin_tweets_user: alderoberge
           plugin_tweets_limit: 1
