@@ -1,10 +1,6 @@
 GitHub Metrics
 ![Metrics](/github-metrics.svg)
 
-
-Metrics
-![Metrics](/metrics.svg)
-
 Calendar
 ![Metrics](/calendar.svg)
 
@@ -17,10 +13,5 @@ Languages
 Activity
 ![Metrics](/activity.svg)
 
-
-Stack
-![Metrics](/stack.svg)
-
 Calendar
 ![Metrics](/metrics.plugin.calendar.full.svg)
-
