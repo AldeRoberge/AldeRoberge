@@ -64,3 +64,19 @@ jobs:
           plugin_tweets_attachments: yes
           plugin_tweets_user: alderoberge
           plugin_tweets_limit: 1
+
+      - name: Plugin Habits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_habits: yes
+          plugin_habits_from: 220
+          plugin_habits_days: 15
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          base: ""
+          config_timezone: Europe/Paris
