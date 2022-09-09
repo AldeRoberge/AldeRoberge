@@ -2,3 +2,4 @@
 ![Calendar](/metrics.plugin.calendar.full.svg)
 ![Tweets](/metrics.plugin.tweets.attachments.svg)
 ![Calendar](/calendar.svg)
+![Gists](/metrics.plugin.gists.svg)
