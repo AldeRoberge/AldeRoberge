@@ -15,3 +15,8 @@ Activity
 
 Calendar
 ![Metrics](/metrics.plugin.calendar.full.svg)
+
+
+
+Tweets
+![Metrics](/metrics.plugin.tweets.attachments.svg)
