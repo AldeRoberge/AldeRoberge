@@ -187,12 +187,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 63.30201955930995%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 63.42558220902349%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">79%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Mathematica</span>
-                                <div class="bar" style="width: 4.119976049824553%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.122099621958816%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                         </div>
@@ -216,7 +216,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IndividualKex/ProceduralGrid</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">how to make a procedural grid world in under 2 minutes in unity (scripts)</div>
@@ -263,7 +263,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lachlanmcdonald/magicavoxel-shaders</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of shaders for MagicaVoxel to generate geometry, noise, patterns, and simplify common and repetitive tasks.</div>
