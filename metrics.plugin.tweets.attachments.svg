@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="121" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="137" class="">
     <defs>
         <style/>
     </defs>
@@ -22,9 +22,11 @@
                             alderoberge
                         </div>
                         <div class="tweet">
-                            <span class="mention">@Sarabjeet___</span>
-                            Java, switched to C# and I'm not looking back.
-                            <div class="date">21:56:07 on 3 Oct 2025</div>
+                            <span class="mention">@davidfowl</span>
+                            Less ____, more _____.
+                            <br />
+                            It's not a ____ anymore. It's a ____.
+                            <div class="date">15:42:43 on 7 Oct 2025</div>
                         </div>
                     </section>
                 </div>
