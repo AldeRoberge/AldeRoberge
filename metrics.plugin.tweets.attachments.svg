@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="137" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="121" class="">
     <defs>
         <style/>
     </defs>
@@ -22,11 +22,10 @@
                             alderoberge
                         </div>
                         <div class="tweet">
-                            <span class="mention">@davidfowl</span>
-                            Less ____, more _____.
-                            <br />
-                            It's not a ____ anymore. It's a ____.
-                            <div class="date">15:42:43 on 7 Oct 2025</div>
+                            <span class="mention">@VossHelios</span>
+                            <span class="mention">@bellsoftware</span>
+                            Console.WriteLine 😎👍
+                            <div class="date">13:28:18 on 8 Oct 2025</div>
                         </div>
                     </section>
                 </div>
