@@ -8,6 +8,14 @@ I’m passionate about building systems that are as elegant as they are practica
 
 I speak French, English, and several programming languages. You can read my stuff on 🌐 alderoberge.com.
 
+
+| ⚕️ Clinique Ludique | 🎮 Alien Garden | ⛏️ Chibogomo VR |
+|-------------------|----------------|----------------|
+| **Automated AI video generation for educational purposes** | **Creating games with friends to bring people together** | **A virtual reality game. More details to come :)** |
+| [![Clinique Ludique](https://cliniqueludique.com/images/characters/nurse-heart-blue.png)](https://cliniqueludique.com/) | [![Alien Garden](https://aliengarden.com/assets/logo-smaller.png)](https://aliengarden.com/) | [![Chibogomo VR](https://upload.wikimedia.org/wikipedia/commons/5/5a/Black_question_mark.png)](https://lasentinelle.ca/chibogomo-une-exposition-a-ne-pas-manquer/) |
+
+
+
 <h2>🔭 Projects I'm Passionate About</h2>
 <table>
   <tr>
