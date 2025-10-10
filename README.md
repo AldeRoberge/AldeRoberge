@@ -1,16 +1,16 @@
 ## Hey, I'm `Alexandre D. Roberge` aka `Aldé` 👋
 
-- 👨‍💻 Masters degree in digital creativity at [UQAT](https://www.uqat.ca/)
-- ⚜️ From Abitibi-Témiscamingue, Québec, Canada
-- 🧡 I love teaching and learning
-- ✨ Simple is beautiful
-- 🦥 Write less, do more
+- 👨‍💻 Masters in [digital creativity](https://www.uqat.ca/etudes/creation-et-nouveaux-medias/maitrise-en-creation-numerique/) at [UQAT](https://www.uqat.ca/)
+- ⚜️ From [Abitibi-Témiscamingue](https://abitibi-temiscamingue.org/), Québec, Canada
 - ⚖️ I love building systems that balance elegance and practicality.
 - 💬 I speak French and English. You can read my stuff on 🌐 alderoberge.com.
+- 🧡 I love teaching and learning
+- ✨ **Simple** is _beautiful_
+- 🦥 Write **less**, do _more_
 
 <h2>🔭 These Days</h2>
 
-I am working at [UQAT](https://www.uqat.ca/) building fun educational courses.
+Building fun educational courses at [UQAT](https://www.uqat.ca/).
 
 <table>
   <tr>
@@ -48,10 +48,9 @@ Previous projects include :
 * [Wikwemot-AR](https://minwashin.org/en/wikwemot/)
 * [CUBIJAM24's Dream Factory](https://sambro.itch.io/the-dream-factory) (Game Jam Winners!)
 * [MA Game Jam 24 - L'étoile de Nourry-Andona](https://alde.itch.io/etoile-de-nourry-andona) (Also Game Jam Winners!)
-* [Virtual Ramen's Mother Voice](https://alde.itch.io/mothers-voice) 
+* [Virtual Ramen's Mother Voice](https://alde.itch.io/mothers-voice)
 
-<h2>Other</h2>
-
+Other creative work :
 * 📷 [Photographs](https://www.instagram.com/alderoberge/)
 * 🎶 [Music](https://soundcloud.com/alexandre-demers-roberge)
 
