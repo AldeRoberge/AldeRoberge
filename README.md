@@ -103,9 +103,13 @@ Previous projects include :
 
 ### 📈 Some stats
 
+<div align="center>
+
 ![Metrics](/github-metrics.svg)
 ![Calendar](/metrics.plugin.calendar.full.svg)
 ![Habits](/habits.svg)
+
+</div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=AldeRoberge&abbreviated=true)
 
