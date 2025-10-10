@@ -32,6 +32,14 @@ I’m passionate about building systems that are as elegant as they are practica
         <img height="64px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg">
       </td>
       <td width="100px" align="center">
+        <span>GitHub</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
+      </td>
+      <td width="100px" align="center">
+        <span>GitHub Actions</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/github-actions.svg">
+      </td>
+      <td width="100px" align="center">
         <span>Windows</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/microsoft-windows.svg">
       </td>
