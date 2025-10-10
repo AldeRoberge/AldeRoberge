@@ -14,17 +14,17 @@ I speak French, English, and several programming languages. You can read my stuf
   <tr>
     <td align="center" width="50%">
       <h1>🎮 Alien Garden</h1><br>
-      Creating games with friends to bring people together<br><br>
       <a href="https://aliengarden.com/">
         <img src="https://aliengarden.com/assets/logo-smaller.png" alt="Alien Garden" width="128">
       </a><br><br>
+      Creating games with friends to bring people together<br><br>
     </td>
     <td align="center" width="50%">
       <h1>⚕️ Clinique Ludique</h1><br>
-      Automated AI video generation for Educational Purposes<br><br>
       <a href="https://cliniqueludique.com/">
         <img src="https://cliniqueludique.com/images/characters/nurse-heart-blue.png" alt="GameCI" width="128">
       </a><br><br>
+       Automated AI video generation for Educational Purposes<br><br>
     </td>
   </tr>
 </table>
