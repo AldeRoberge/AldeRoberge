@@ -3,12 +3,14 @@
 - 👨‍💻 Masters degree in digital creativity at [UQAT](https://www.uqat.ca/)
 - ⚜️ From Québec, Canada 
 - 🧡 I love teaching and learning
+- ✨ Simple is beautiful
+- 🦥 Write less, do more
 
 I’m passionate about building systems that are as elegant as they are practical.
 
 I speak French, English, and several programming languages. You can read my stuff on 🌐 alderoberge.com.
 
-<h2>🔭 Projects I'm Passionate About</h2>
+<h2>🔭 These Days</h2>
 <table>
   <tr>
     <td align="center" width="50%">
@@ -36,6 +38,10 @@ I speak French, English, and several programming languages. You can read my stuf
 </table>
 
 And some secret/private projects and I can't tell you (yet!) about...
+
+<h2>🔭 Past</h2>
+
+I have been involved in programming and game design for many years, starting around 2010 or so.
 
 Previous projects include : 
 * [Wikwemot-AR](https://minwashin.org/en/wikwemot/)
