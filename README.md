@@ -55,6 +55,23 @@ I’m passionate about building systems that are as elegant as they are practica
         <span>Docker</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
       </td>
+      <td width="100px" align="center">
+        <span>Trello</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/trello.svg">
+      </td>
+      <td width="100px" align="center">
+        <span>Miro</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/miro.svg">
+      </td>
+      <td width="100px" align="center">
+        <span>Canva</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/canva.svg">
+      </td>
+      <td width="100px" align="center">
+        <span>Photoshop</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/adobe-photoshop.svg">
+      </td>
+    </tr>
     </tr>
     <tr>
       <td width="100px" align="center">
