@@ -1,7 +1,7 @@
 ## Hey, I'm `Alexandre D. Roberge` aka `Aldé` 👋
 
 - 👨‍💻 Masters degree in digital creativity at [UQAT](https://www.uqat.ca/)
-- ⚜️ From Québec, Canada 
+- ⚜️ From Abitibi-Témiscamingue, Québec, Canada
 - 🧡 I love teaching and learning
 - ✨ Simple is beautiful
 - 🦥 Write less, do more
@@ -52,6 +52,10 @@ Previous projects include :
 * [MA Game Jam 24 - L'étoile de Nourry-Andona](https://alde.itch.io/etoile-de-nourry-andona) (Also Game Jam Winners!)
 * [Virtual Ramen's Mother Voice](https://alde.itch.io/mothers-voice) 
 
+<h2>Other</h2>
+
+* 📷 [Photographs](https://www.instagram.com/alderoberge/)
+* 🎶 [Music](https://soundcloud.com/alexandre-demers-roberge)
 
 ### 🛠 Tools I love 💘
 
