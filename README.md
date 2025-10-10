@@ -10,25 +10,26 @@ I speak French, English, and several programming languages. You can read my stuf
 
 <h2>🔭 Projects I'm Passionate About</h2>
 
-<table width="100%">
+<table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td align="center" width="50%">
-      <h2>⚕️ Clinique Ludique</h2>
-      <a href="https://cliniqueludique.com/">
-        <img src="https://cliniqueludique.com/images/characters/nurse-heart-blue.png" alt="Clinique Ludique" width="128">
-      </a>
-      <p>Automated AI video generation for educational purposes</p>
-    </td>
-
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="padding: 20px;">
       <h2>🎮 Alien Garden</h2>
+      <p>Creating games with friends to bring people together</p>
       <a href="https://aliengarden.com/">
         <img src="https://aliengarden.com/assets/logo-smaller.png" alt="Alien Garden" width="128">
       </a>
-      <p>Creating games with friends to bring people together</p>
+    </td>
+
+    <td align="center" width="50%" style="padding: 20px;">
+      <h2>⚕️ Clinique Ludique</h2>
+      <p>Automated AI video generation for educational purposes</p>
+      <a href="https://cliniqueludique.com/">
+        <img src="https://cliniqueludique.com/images/characters/nurse-heart-blue.png" alt="Clinique Ludique" width="128">
+      </a>
     </td>
   </tr>
 </table>
+
 
 
 
