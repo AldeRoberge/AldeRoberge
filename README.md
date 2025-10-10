@@ -11,6 +11,9 @@ I’m passionate about building systems that are as elegant as they are practica
 I speak French, English, and several programming languages. You can read my stuff on 🌐 alderoberge.com.
 
 <h2>🔭 These Days</h2>
+
+I am working at [UQAT](https://www.uqat.ca/) building fun educational courses.
+
 <table>
   <tr>
     <td align="center" width="50%">
