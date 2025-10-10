@@ -1,15 +1,44 @@
-# Hey, I'm `Alexandre D. Roberge` aka `Aldé` 👋
-
-## About Me
+## Hey, I'm `Alexandre D. Roberge` aka `Aldé` 👋
 
 - 👨‍💻 Masters degree in digital creativity at @UQAT
 - ⚜️ From Québec, Canada 
 - 🧡 I love smart efficiency
 
-I’m passionate about building systems that are as elegant as they are practical — simplicity is the ultimate sophistication.
+I’m passionate about building systems that are as elegant as they are practical.
+
 I speak French, English, and several programming languages. You can read my stuff on 🌐 alderoberge.com.
 
-## 🛠 Tools I love 💘
+### 🔭 Projects I'm Passionate About
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🎮 Alien Garden</strong><br>
+      Creating games with friends to bring people together<br><br>
+      <a href="https://aliengarden.com/">
+        <img src="https://aliengarden.com/assets/logo-smaller.png" alt="Alien Garden" width="250">
+      </a><br><br>
+    </td>
+    <td align="center" width="50%">
+      <strong>⚕️ Clinique Ludique</strong><br>
+      Automated AI video generation for Educational Purposes<br><br>
+      <a href="https://cliniqueludique.com/">
+        <img src="https://cliniqueludique.com/images/characters/nurse-heart-blue.png" alt="GameCI" width="250">
+      </a><br><br>
+    </td>
+  </tr>
+</table>
+
+And some secret/private projects and I can't tell you (yet!) about...
+
+Previous projects include : 
+* [Wikwemot-AR](https://minwashin.org/en/wikwemot/)
+* [CUBIJAM24's Dream Factory](https://sambro.itch.io/the-dream-factory) (Game Jam Winners!)
+* [MA Game Jam 24 - L'étoile de Nourry-Andona](https://alde.itch.io/etoile-de-nourry-andona) (Also Game Jam Winners!)
+* [Virtual Ramen's Mother Voice](https://alde.itch.io/mothers-voice) 
+
+
+### 🛠 Tools I love 💘
 
 <table>
   <tbody>
@@ -59,7 +88,7 @@ I speak French, English, and several programming languages. You can read my stuf
 </table>
 
 
-## 📈 Some stats
+### 📈 Some stats
 
 ![Metrics](/github-metrics.svg)
 ![Calendar](/metrics.plugin.calendar.full.svg)
