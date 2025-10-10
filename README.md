@@ -1,16 +1,15 @@
-# Hey, I'm Alde 👋
+# Hey, I'm `Alexandre D. Roberge` aka `Aldé` 👋
 
 ## About Me
 
-- 👨‍💻 Creative problem solver
-- 🌎 From Québec, Canada
-- 🧡 I love open source
+- 👨‍💻 Masters degree in digital creativity at @UQAT
+- ⚜️ From Québec, Canada 
+- 🧡 I love smart efficiency
 
-## What I Do
+I’m passionate about building systems that are as elegant as they are practical — simplicity is the ultimate sophistication.
+I speak French, English, and several programming languages. You can read my stuff on 🌐 alderoberge.com.
 
-I’m passionate about building systems that are as elegant as they are practical — because *simplicity is the ultimate sophistication*
-
-## 🛠 Tools I use
+## 🛠 Tools I love 💘
 
 <table>
   <tbody>
@@ -36,20 +35,8 @@ I’m passionate about building systems that are as elegant as they are practica
         <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
       </td>
       <td width="100px" align="center">
-        <span>GitHub Actions</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/github-actions.svg">
-      </td>
-      <td width="100px" align="center">
         <span>Windows</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/microsoft-windows.svg">
-      </td>
-      <td width="100px" align="center">
-        <span>Ubuntu</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg">
-      </td>
-      <td width="100px" align="center">
-        <span>Git</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="100px" align="center">
         <span>Docker</span><br><br><br>
@@ -67,23 +54,15 @@ I’m passionate about building systems that are as elegant as they are practica
         <span>Canva</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/canva.svg">
       </td>
-      <td width="100px" align="center">
-        <span>Photoshop</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/adobe-photoshop.svg">
-      </td>
-    </tr>
-    </tr>
-    <tr>
-      <td width="100px" align="center">
-        <span>WebStorm</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webstorm.svg">
-      </td>
     </tr>
   </tbody>
 </table>
+
 
 ## 📈 Some stats
 
 ![Metrics](/github-metrics.svg)
 ![Calendar](/metrics.plugin.calendar.full.svg)
 ![Habits](/habits.svg)
+
+![Profile views](https://komarev.com/ghpvc/?username=AldeRoberge&abbreviated=true)
