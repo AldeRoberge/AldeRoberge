@@ -31,19 +31,11 @@ I’m passionate about building systems that are as elegant as they are practica
         <span>Docker</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
       </td>
-      <td width="100px" align="center">
-        <span>Rust</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/rust.svg">
-      </td>
     </tr>
     <tr>
       <td width="100px" align="center">
         <span>WebStorm</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/webstorm.svg">
-      </td>
-      <td width="100px" align="center">
-        <span>GoLand</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/goland.svg">
       </td>
       <td width="100px" align="center">
         <span>Rider</span><br><br><br>
@@ -54,8 +46,16 @@ I’m passionate about building systems that are as elegant as they are practica
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="100px" align="center">
-        <span>Designer</span><br><br><br>
-        <img height="64px" src="https://cdn.serif.com/affinity/img/global/logos/affinity-designer-icon-090520190839.svg">
+        <span>Unity</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/unity.svg">
+      </td>
+      <td width="100px" align="center">
+        <span>C#</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+      </td>
+      <td width="100px" align="center">
+        <span>MongoDB</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg">
       </td>
     </tr>
   </tbody>
