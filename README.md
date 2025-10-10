@@ -8,18 +8,10 @@ I’m passionate about building systems that are as elegant as they are practica
 
 I speak French, English, and several programming languages. You can read my stuff on 🌐 alderoberge.com.
 
-### 🔭 Projects I'm Passionate About
+<h2>🔭 Projects I'm Passionate About</h2>
 
 <table width="100%">
   <tr>
-    <td align="center" width="50%">
-      <h2>🎮 Alien Garden</h2>
-      <a href="https://aliengarden.com/">
-        <img src="https://aliengarden.com/assets/logo-smaller.png" alt="Alien Garden" width="128">
-      </a>
-      <p>Creating games with friends to bring people together</p>
-    </td>
-
     <td align="center" width="50%">
       <h2>⚕️ Clinique Ludique</h2>
       <a href="https://cliniqueludique.com/">
@@ -27,8 +19,17 @@ I speak French, English, and several programming languages. You can read my stuf
       </a>
       <p>Automated AI video generation for educational purposes</p>
     </td>
+
+    <td align="center" width="50%">
+      <h2>🎮 Alien Garden</h2>
+      <a href="https://aliengarden.com/">
+        <img src="https://aliengarden.com/assets/logo-smaller.png" alt="Alien Garden" width="128">
+      </a>
+      <p>Creating games with friends to bring people together</p>
+    </td>
   </tr>
 </table>
+
 
 
 And some secret/private projects and I can't tell you (yet!) about...
