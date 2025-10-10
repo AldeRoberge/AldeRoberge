@@ -16,6 +16,22 @@ I’m passionate about building systems that are as elegant as they are practica
   <tbody>
     <tr valign="top">
       <td width="100px" align="center">
+        <span>Rider</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/rider.svg">
+      </td>
+      <td width="100px" align="center">
+        <span>C#</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+      </td>
+      <td width="100px" align="center">
+        <span>Unity</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/unity.svg">
+      </td>
+      <td width="100px" align="center">
+        <span>MongoDB</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg">
+      </td>
+      <td width="100px" align="center">
         <span>Windows</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/microsoft-windows.svg">
       </td>
@@ -36,26 +52,6 @@ I’m passionate about building systems that are as elegant as they are practica
       <td width="100px" align="center">
         <span>WebStorm</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/webstorm.svg">
-      </td>
-      <td width="100px" align="center">
-        <span>Rider</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/rider.svg">
-      </td>
-      <td width="100px" align="center">
-        <span>VS Code</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="100px" align="center">
-        <span>Unity</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/unity.svg">
-      </td>
-      <td width="100px" align="center">
-        <span>C#</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
-      </td>
-      <td width="100px" align="center">
-        <span>MongoDB</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg">
       </td>
     </tr>
   </tbody>
