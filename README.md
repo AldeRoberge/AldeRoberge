@@ -1,8 +1,8 @@
 ## Hey, I'm `Alexandre D. Roberge` aka `Aldé` 👋
 
-- 👨‍💻 Masters degree in digital creativity at @UQAT
+- 👨‍💻 Masters degree in digital creativity at [UQAT](https://www.uqat.ca/)
 - ⚜️ From Québec, Canada 
-- 🧡 I love smart efficiency
+- 🧡 I love teaching and learning
 
 I’m passionate about building systems that are as elegant as they are practical.
 
@@ -34,11 +34,6 @@ I speak French, English, and several programming languages. You can read my stuf
     </td>
   </tr>
 </table>
-
-
-
-
-
 
 And some secret/private projects and I can't tell you (yet!) about...
 
