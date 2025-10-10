@@ -10,29 +10,26 @@ I speak French, English, and several programming languages. You can read my stuf
 
 ### 🔭 Projects I'm Passionate About
 
-<table>
+<table width="100%">
   <tr>
-
-    
-    
     <td align="center" width="50%">
-      <h1>🎮 Alien Garden</h1><br>
+      <h2>🎮 Alien Garden</h2>
       <a href="https://aliengarden.com/">
         <img src="https://aliengarden.com/assets/logo-smaller.png" alt="Alien Garden" width="128">
-      </a><br><br>
-      Creating games with friends to bring people together<br><br>
+      </a>
+      <p>Creating games with friends to bring people together</p>
     </td>
 
     <td align="center" width="50%">
-      <h1>⚕️ Clinique Ludique</h1><br>
+      <h2>⚕️ Clinique Ludique</h2>
       <a href="https://cliniqueludique.com/">
-        <img src="https://cliniqueludique.com/images/characters/nurse-heart-blue.png" alt="GameCI" width="128">
-      </a><br><br>
-       Automated AI video generation for Educational Purposes<br><br>
+        <img src="https://cliniqueludique.com/images/characters/nurse-heart-blue.png" alt="Clinique Ludique" width="128">
+      </a>
+      <p>Automated AI video generation for educational purposes</p>
     </td>
-    
   </tr>
 </table>
+
 
 And some secret/private projects and I can't tell you (yet!) about...
 
