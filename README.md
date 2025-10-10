@@ -18,7 +18,6 @@ I speak French, English, and several programming languages. You can read my stuf
         <img src="https://cliniqueludique.com/images/characters/nurse-heart-blue.png" alt="Clinique Ludique" width="128">
       </a>
     </td>
-
     <td align="center" width="50%">
       <h2>⛏️ Chibogomo VR</h2>
       <p>A virtual reality game. More details to come :)</p>
@@ -26,7 +25,6 @@ I speak French, English, and several programming languages. You can read my stuf
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Black_question_mark.png" alt="Chibogomo VR" width="128">
       </a>
     </td>
-    
     <td align="center" width="50%">
       <h2>🎮 Alien Garden</h2>
       <p>Creating games with friends to bring people together</p>
@@ -34,7 +32,6 @@ I speak French, English, and several programming languages. You can read my stuf
         <img src="https://aliengarden.com/assets/logo-smaller.png" alt="Alien Garden" width="128">
       </a>
     </td>
-
   </tr>
 </table>
 
