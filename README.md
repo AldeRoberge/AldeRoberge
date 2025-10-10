@@ -5,10 +5,8 @@
 - 🧡 I love teaching and learning
 - ✨ Simple is beautiful
 - 🦥 Write less, do more
-
-I’m passionate about building systems that are as elegant as they are practical.
-
-I speak French, English, and several programming languages. You can read my stuff on 🌐 alderoberge.com.
+- ⚖️ I love building systems that balance elegance and practicality.
+- 💬 I speak French and English. You can read my stuff on 🌐 alderoberge.com.
 
 <h2>🔭 These Days</h2>
 
@@ -25,7 +23,7 @@ I am working at [UQAT](https://www.uqat.ca/) building fun educational courses.
     </td>
     <td align="center" width="50%">
       <h2>🎮 Alien Garden</h2>
-      <p>Creating games with friends to bring people together</p>
+      <p>MMORPG to bring people together</p>
       <a href="https://aliengarden.com/">
         <img src="https://aliengarden.com/assets/logo-smaller.png" alt="Alien Garden" width="128">
       </a>
@@ -110,3 +108,5 @@ Previous projects include :
 ![Habits](/habits.svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=AldeRoberge&abbreviated=true)
+
+Feel free to check out my work, collaborate, or just say hi!
