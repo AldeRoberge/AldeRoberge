@@ -2,15 +2,14 @@
 
 - 👨‍💻 Masters in [digital creativity](https://www.uqat.ca/etudes/creation-et-nouveaux-medias/maitrise-en-creation-numerique/) at [UQAT](https://www.uqat.ca/)
 - ⚜️ From [Abitibi-Témiscamingue](https://abitibi-temiscamingue.org/), Québec, Canada
-- ⚖️ I love building systems that balance elegance and practicality.
-- 💬 I speak French and English. You can read my stuff on 🌐 alderoberge.com.
+- 💬 I speak French and English
 - 🧡 I love teaching and learning
-- ✨ **Simple** is _beautiful_
-- 🦥 Write **less**, do _more_
+- ✨ I beleive **Simple** is _beautiful_
+- 🦥 In other words, write **less**, do _more_.
 
-<h2>🔭 These Days</h2>
+<h2>🔭 These Days...</h2>
 
-Building fun educational courses at [UQAT](https://www.uqat.ca/).
+I'm building fun educational courses at [UQAT](https://www.uqat.ca/).
 
 <table>
   <tr>
@@ -38,13 +37,13 @@ Building fun educational courses at [UQAT](https://www.uqat.ca/).
   </tr>
 </table>
 
-And some secret/private projects and I can't tell you (yet!) about...
+And some unannounced projects and I can't tell you (yet!) about...
 
 <h2>🔭 Past</h2>
 
 I have been involved in programming and game design for many years, starting around 2010 or so.
 
-Previous projects include : 
+Some previous projects include : 
 * [Wikwemot-AR](https://minwashin.org/en/wikwemot/)
 * [CUBIJAM24's Dream Factory](https://sambro.itch.io/the-dream-factory) (Game Jam Winners!)
 * [MA Game Jam 24 - L'étoile de Nourry-Andona](https://alde.itch.io/etoile-de-nourry-andona) (Also Game Jam Winners!)
@@ -54,7 +53,7 @@ Other creative work :
 * 📷 [Photographs](https://www.instagram.com/alderoberge/)
 * 🎶 [Music](https://soundcloud.com/alexandre-demers-roberge)
 
-### 🛠 Tools I love 💘
+### 🛠 Tools I use and love 💘
 
 <table>
   <tbody>
