@@ -4,10 +4,10 @@
 
 # Hey I'm `Alexandre D. Roberge` aka `Aldé` 👋
 
-**Senior Unity Engineer** with 5+ years of experience developing and shipping games for VR and mobile.  
-Focused on **gameplay programming**, with clean architecture and performance in mind.
+I’m a Senior Unity Engineer with over 6 years of hands-on experience building and shipping games across VR and mobile platforms.
+My passion lies in gameplay programming — crafting responsive, elegant systems through clean architecture and performance-driven design.
 
-I’ve worked on titles published on **Steam**, **App Store**, and **Google Play**.
+I’ve contributed to projects released on **Steam**, the **App Store**, and **Google Play**, always pushing for experiences that feel as good to play as they are to build.
 
 ----
 
