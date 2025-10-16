@@ -1,4 +1,15 @@
-## Hey, I'm `Alexandre D. Roberge` aka `Aldé` 👋
+<p align="center">
+  <img src="banner-star-sky.png" alt="Header" width="100%" />
+</p>
+
+# Hey I'm `Alexandre D. Roberge` aka `Aldé` 👋
+
+**Senior Unity Engineer** with 5+ years of experience developing and shipping games for VR and mobile.  
+Focused on **gameplay programming**, with clean architecture and performance in mind.
+
+I’ve worked on titles published on **Steam**, **App Store**, and **Google Play**.
+
+----
 
 - 👨‍💻 Masters in [digital creativity](https://www.uqat.ca/etudes/creation-et-nouveaux-medias/maitrise-en-creation-numerique/) at [UQAT](https://www.uqat.ca/)
 - ⚜️ From [Abitibi-Témiscamingue](https://abitibi-temiscamingue.org/), Québec, Canada
@@ -6,6 +17,19 @@
 - 🧡 I love teaching and learning
 - ✨ I beleive **Simple** is _beautiful_
 - 🦥 In other words, write **less**, do _more_.
+
+
+----
+
+<h2>Fin me on...</h2>
+
+* 💜 [Portfolio](https://alderoberge.com)
+* 🎮 [Itch.io](https://itch.io/alderoberge.com)
+* 📷 [Instagram](https://www.instagram.com/alderoberge/)
+* 🎶 [Soundcloud](https://soundcloud.com/alexandre-demers-roberge)
+
+----
+
 
 <h2>🔭 These Days...</h2>
 
@@ -49,9 +73,7 @@ Some previous projects include :
 * [MA Game Jam 24 - L'étoile de Nourry-Andona](https://alde.itch.io/etoile-de-nourry-andona) (Also Game Jam Winners!)
 * [Virtual Ramen's Mother Voice](https://alde.itch.io/mothers-voice)
 
-Other creative work :
-* 📷 [Photographs](https://www.instagram.com/alderoberge/)
-* 🎶 [Music](https://soundcloud.com/alexandre-demers-roberge)
+
 
 ### 🛠 Tools I use and love 💘
 
