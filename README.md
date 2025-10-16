@@ -18,7 +18,6 @@ I’ve contributed to projects released on **Steam**, the **App Store**, and **G
 - ✨ I beleive **Simple** is _beautiful_
 - 🦥 In other words, write **less**, do _more_.
 
-
 ----
 
 <h2>Fin me on...</h2>
@@ -30,10 +29,9 @@ I’ve contributed to projects released on **Steam**, the **App Store**, and **G
 
 ----
 
-
 <h2>🔭 These Days...</h2>
 
-I'm building fun educational courses at [UQAT](https://www.uqat.ca/).
+I'm helper teachers build fun interactive courses at [UQAT](https://www.uqat.ca/).
 
 <table>
   <tr>
