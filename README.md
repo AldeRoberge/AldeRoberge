@@ -24,7 +24,7 @@ I’ve contributed to projects released on **Steam**, the **App Store**, and **G
 <h2>Fin me on...</h2>
 
 * 💜 [Portfolio](https://alderoberge.com)
-* 🎮 [Itch.io](https://itch.io/alderoberge)
+* 🎮 [Itch.io](https://alde.itch.io/)
 * 📷 [Instagram](https://www.instagram.com/alderoberge/)
 * 🎶 [Soundcloud](https://soundcloud.com/alexandre-demers-roberge)
 
