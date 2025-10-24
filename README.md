@@ -11,11 +11,11 @@ I’ve contributed to projects released on **Steam**, the **App Store**, and **G
 
 ----
 
-- 👨‍💻 Master's in [digital creativity](https://www.uqat.ca/etudes/creation-et-nouveaux-medias/maitrise-en-creation-numerique/) at [UQAT](https://www.uqat.ca/),
-- ⚜️ From ⛏️ [Abitibi-Témiscamingue](https://abitibi-temiscamingue.org/), ⚜️ [Québec](https://fr.wikipedia.org/wiki/Qu%C3%A9bec), 🍁 [Canada](https://fr.wikipedia.org/wiki/Canada),
-- 💬 I speak French and English,
-- 🧡 I love teaching and learning,
-- ✨ I believe **Simple** is _beautiful_,
+- 👨‍💻 Master's in [digital creativity](https://www.uqat.ca/etudes/creation-et-nouveaux-medias/maitrise-en-creation-numerique/) at [UQAT](https://www.uqat.ca/).
+- ⚜️ From ⛏️ [Abitibi-Témiscamingue](https://abitibi-temiscamingue.org/), ⚜️ [Québec](https://fr.wikipedia.org/wiki/Qu%C3%A9bec), 🍁 [Canada](https://fr.wikipedia.org/wiki/Canada).
+- 💬 I speak **French** and **English**.
+- 🧡 I love **learning** and **teaching**.
+- ✨ I believe **Simple** is _beautiful_.
 - 🦥 In other words, write **less**, do _more_.
 
 ----
@@ -26,6 +26,9 @@ I’ve contributed to projects released on **Steam**, the **App Store**, and **G
 * 🎮 [Itch.io](https://alde.itch.io/)
 * 📷 [Instagram](https://www.instagram.com/alderoberge/)
 * 🎶 [SoundCloud](https://soundcloud.com/alexandre-demers-roberge)
+
+🍲🍜🍄🪚🏹
+We can also chat about food, foraging, carpentry and archery.
 
 ----
 
