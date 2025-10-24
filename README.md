@@ -11,27 +11,27 @@ I’ve contributed to projects released on **Steam**, the **App Store**, and **G
 
 ----
 
-- 👨‍💻 Masters in [digital creativity](https://www.uqat.ca/etudes/creation-et-nouveaux-medias/maitrise-en-creation-numerique/) at [UQAT](https://www.uqat.ca/)
+- 👨‍💻 Master's in [digital creativity](https://www.uqat.ca/etudes/creation-et-nouveaux-medias/maitrise-en-creation-numerique/) at [UQAT](https://www.uqat.ca/)
 - ⚜️ From [Abitibi-Témiscamingue](https://abitibi-temiscamingue.org/), Québec, Canada
 - 💬 I speak French and English
 - 🧡 I love teaching and learning
-- ✨ I beleive **Simple** is _beautiful_
+- ✨ I believe **Simple** is _beautiful_
 - 🦥 In other words, write **less**, do _more_.
 
 ----
 
-<h2>Fin me on...</h2>
+<h2>Find me on...</h2>
 
 * 💜 [Portfolio](https://alderoberge.com)
 * 🎮 [Itch.io](https://alde.itch.io/)
 * 📷 [Instagram](https://www.instagram.com/alderoberge/)
-* 🎶 [Soundcloud](https://soundcloud.com/alexandre-demers-roberge)
+* 🎶 [SoundCloud](https://soundcloud.com/alexandre-demers-roberge)
 
 ----
 
 <h2>🔭 These Days...</h2>
 
-I'm helper teachers build fun interactive courses at [UQAT](https://www.uqat.ca/).
+I'm helping teachers build fun interactive courses at [UQAT](https://www.uqat.ca/).
 
 <table>
   <tr>
@@ -59,13 +59,13 @@ I'm helper teachers build fun interactive courses at [UQAT](https://www.uqat.ca/
   </tr>
 </table>
 
-And some unannounced projects and I can't tell you (yet!) about...
+And some unannounced projects I can't tell you about (yet!)…
 
 <h2>🔭 Past</h2>
 
 I have been involved in programming and game design for many years, starting around 2010 or so.
 
-Some previous projects include : 
+Some previous projects include: 
 * [Wikwemot-AR](https://minwashin.org/en/wikwemot/)
 * [CUBIJAM24's Dream Factory](https://sambro.itch.io/the-dream-factory) (Game Jam Winners!)
 * [MA Game Jam 24 - L'étoile de Nourry-Andona](https://alde.itch.io/etoile-de-nourry-andona) (Also Game Jam Winners!)
@@ -121,7 +121,7 @@ Some previous projects include :
 
 ### 📈 Some stats
 
-<div align="center>
+<div align="center">
 
 ![Metrics](/github-metrics.svg)
 ![Calendar](/metrics.plugin.calendar.full.svg)
