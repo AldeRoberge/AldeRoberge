@@ -2,9 +2,9 @@
   <img src="banner-star-sky.png" alt="Header" width="100%" />
 </p>
 
-# Hey I'm `Alexandre D. Roberge` aka `Aldé` 👋
+# Hey, this is me 👋
 
-I’m a Senior Unity Engineer with over 6 years of hands-on experience building and shipping games across VR and mobile platforms.
+I'm `Alexandre D. Roberge` aka `Aldé`, a Unity Engineer with over 6 years of hands-on experience building and shipping games across VR and mobile platforms.
 My passion lies in game design and emergent behavior. I specialize in complex systems and performance-driven design.
 
 I’ve contributed to projects released on **Steam**, the **App Store**, and **Google Play**, always pushing for experiences that feel as good to play as they are to build.
