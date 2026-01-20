@@ -2,9 +2,9 @@
   <img src="banner-star-sky.png" alt="Header" width="100%" />
 </p>
 
-# Hey, this is me 👋
+# Hey! 👋
 
-I'm `Alexandre D. Roberge` aka `Aldé`, a Unity Engineer with over 6 years of hands-on experience building and shipping games across VR and mobile platforms.
+I'm `Alexandre D. Roberge` aka `Aldé`, a Unity Engineer with over 7 years of hands-on experience building and shipping games across VR and mobile platforms.
 My passion lies in game design and emergent behavior. I specialize in complex systems and performance-driven design.
 
 I’ve contributed to projects released on **Steam**, the **App Store**, and **Google Play**, always pushing for experiences that feel as good to play as they are to build.
@@ -16,7 +16,7 @@ I’ve contributed to projects released on **Steam**, the **App Store**, and **G
 - 💬 I speak **French** and **English**.
 - 🧡 I love **learning** and **teaching**.
 - ✨ I believe **Simple** is _beautiful_.
-- 🦥 In other words, write **less**, do _more_.
+- 🦥 Write **less**, do _more_.
 
 ----
 
@@ -28,7 +28,7 @@ I’ve contributed to projects released on **Steam**, the **App Store**, and **G
 * 🎶 [SoundCloud](https://soundcloud.com/alexandre-demers-roberge)
 
 🍲🍜🍄🪚🏹
-We can also chat about food, foraging, carpentry and archery.
+We can also chat about carpentry, food, foraging and archery.
 
 ----
 
