@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-star-sky.png" alt="Header" width="100%" />
+  <img src="https://github.com/user-attachments/assets/c7f8e9fb-145c-4f01-99ac-88ad8c8c3ebb" alt="Header" width="100%" />
 </p>
 
 # Hey! 👋
