@@ -43,7 +43,7 @@ I have been involved in programming and game design for many years, starting aro
   <tr>
     <td align="center" width="50%">
       <h2>⚕️ Clinique Ludique</h2>
-      <p>I helped teachers build fun interactive courses. We automated AI video generation for training nurses under a very tight budget.</p>
+      <p>I helped teachers build fun interactive courses. We automated AI video generation for training nurses under a tight deadline and budget.</p>
       <a href="https://cliniqueludique.com/">
         <img src="https://cliniqueludique.com/images/characters/nurse-heart-blue.png" alt="Clinique Ludique" width="128">
       </a>
