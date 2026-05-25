@@ -23,7 +23,7 @@ I've shipped interactive experiences across mobile, VR, and the web, and I've ha
 
 <h2>Find me on...</h2>
 
-* 💜 [Website](https://alderoberge.com)
+* ❤️ [Website](https://alderoberge.com)
 * 🎮 [Itch.io](https://alde.itch.io/)
 * 📷 [Instagram](https://www.instagram.com/alderoberge/)
 * 🎶 [SoundCloud](https://soundcloud.com/alexandre-demers-roberge)
