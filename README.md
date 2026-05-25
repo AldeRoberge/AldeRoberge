@@ -4,76 +4,67 @@
 
 # Hey! 👋
 
-I'm `Alexandre D. Roberge` aka `Aldé`, a Unity Engineer with over 7 years of hands-on experience building and shipping games across VR and mobile platforms.
-My passion lies in game design and emergent behavior. I specialize in complex systems and performance-driven design.
+I'm `Alexandre D. Roberge` aka `Aldé`. I've been developing interactive apps with Unity for over 7 years. 
+I have hands-on experience building and shipping games across multiple mobile platforms including virtual reality.
+I love good game design and fresh emergent behavior. I have an eye for performance-driven design.
 
-I’ve contributed to projects released on **Steam**, the **App Store**, and **Google Play**, always pushing for experiences that feel as good to play as they are to build.
+I’ve contributed to projects released on **Steam**, the **App Store**, and **Google Play**.
 
 ----
 
-- 👨‍💻 Master's in [digital creativity](https://www.uqat.ca/etudes/creation-et-nouveaux-medias/maitrise-en-creation-numerique/) at [UQAT](https://www.uqat.ca/).
+- 👨‍💻 Master's degree in [digital creativity](https://www.uqat.ca/etudes/creation-et-nouveaux-medias/maitrise-en-creation-numerique/) at [UQAT](https://www.uqat.ca/).
 - ⚜️ From ⛏️ [Abitibi-Témiscamingue](https://abitibi-temiscamingue.org/), ⚜️ [Québec](https://fr.wikipedia.org/wiki/Qu%C3%A9bec), 🍁 [Canada](https://fr.wikipedia.org/wiki/Canada).
-- 💬 I speak **French** and **English**.
+- 💬 I speak **French** (native) and **English**.
 - 🧡 I love **learning** and **teaching**.
-- ✨ I believe **Simple** is _beautiful_.
+- ✨ I believe **simple** is _beautiful_.
 - 🦥 Write **less**, do _more_.
 
 ----
 
 <h2>Find me on...</h2>
 
-* 💜 [Portfolio](https://alderoberge.com)
+* 💜 [Website](https://alderoberge.com)
 * 🎮 [Itch.io](https://alde.itch.io/)
 * 📷 [Instagram](https://www.instagram.com/alderoberge/)
 * 🎶 [SoundCloud](https://soundcloud.com/alexandre-demers-roberge)
-
-🍲🍜🍄🪚🏹
-We can also chat about carpentry, food, foraging and archery.
 
 ----
 
 <h2>🔭 These Days...</h2>
 
-I'm helping teachers build fun interactive courses at [UQAT](https://www.uqat.ca/).
+I'm working at Ville de Val-d'Or as a digital creation consultant in the communications team. 🔥
+
+
+<h2>🔭 Past</h2>
+
+I have been involved in programming and game design for many years, starting around 2010 or so.
 
 <table>
   <tr>
     <td align="center" width="50%">
       <h2>⚕️ Clinique Ludique</h2>
-      <p>Automated AI video generation for educational purposes</p>
+      <p>I helped teachers build fun interactive courses. We automated AI video generation for training nurses under a very tight budget.</p>
       <a href="https://cliniqueludique.com/">
         <img src="https://cliniqueludique.com/images/characters/nurse-heart-blue.png" alt="Clinique Ludique" width="128">
       </a>
     </td>
     <td align="center" width="50%">
       <h2>🎮 Alien Garden</h2>
-      <p>MMORPG to bring people together</p>
+      <p>My passion project I've been working on for too long.</p>
       <a href="https://aliengarden.com/">
         <img src="https://aliengarden.com/assets/logo-smaller.png" alt="Alien Garden" width="128">
       </a>
     </td>
-    <td align="center" width="50%">
-      <h2>⛏️ Chibogomo VR</h2>
-      <p>A virtual reality game. More details to come :)</p>
-      <a href="https://lasentinelle.ca/chibogomo-une-exposition-a-ne-pas-manquer/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Black_question_mark.png" alt="Chibogomo VR" width="128">
-      </a>
-    </td>
+
   </tr>
 </table>
-
-And some unannounced projects I can't tell you about (yet!)…
-
-<h2>🔭 Past</h2>
-
-I have been involved in programming and game design for many years, starting around 2010 or so.
 
 Some previous projects include: 
 * [Wikwemot-AR](https://minwashin.org/en/wikwemot/)
 * [CUBIJAM24's Dream Factory](https://sambro.itch.io/the-dream-factory) (Game Jam Winners!)
 * [MA Game Jam 24 - L'étoile de Nourry-Andona](https://alde.itch.io/etoile-de-nourry-andona) (Also Game Jam Winners!)
 * [Virtual Ramen's Mother Voice](https://alde.itch.io/mothers-voice)
-
+* [Many others!]([https://alde.itch.io/mothers-voice](https://alderoberge.com/?section=Abitibi360))
 
 
 ### 🛠 Tools I use and love 💘
@@ -82,12 +73,12 @@ Some previous projects include:
   <tbody>
     <tr valign="top">
       <td width="100px" align="center">
-        <span>Rider</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/rider.svg">
-      </td>
-      <td width="100px" align="center">
         <span>C#</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+      </td>
+      <td width="100px" align="center">
+        <span>Rider</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/rider.svg">
       </td>
       <td width="100px" align="center">
         <span>Unity</span><br><br><br>
