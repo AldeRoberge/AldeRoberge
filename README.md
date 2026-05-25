@@ -4,11 +4,9 @@
 
 # Hey! 👋
 
-I'm `Alexandre D. Roberge` aka `Aldé`. I've been developing interactive apps with Unity for over 7 years. 
-I have hands-on experience building and shipping games across multiple mobile platforms including virtual reality.
-I love good game design and fresh emergent behavior. I have an eye for performance-driven design.
-
-I’ve contributed to projects released on **Steam**, the **App Store**, and **Google Play**.
+I'm `Alexandre Demers-Roberge` but you can call me `Aldé` for short. I'm a digital creation consultant from Abitibi-Témiscamingue, Québec, with a Master's degree in digital creation from UQAT and over 8 years of hands-on experience in digital production.
+I work across the full creative production pipeline, from scripting, shooting, editing and publishing. My toolkit spans Unity / C#, the Adobe Suite, web dev, and applied AI for communication and content creation.
+I've shipped interactive experiences across mobile, VR, and the web, and I've had the priviledge to build award winning games with awesome people.
 
 ----
 
