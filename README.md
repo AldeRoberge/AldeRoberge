@@ -4,6 +4,8 @@
 
 # Hey! 👋
 
+[![Translate](https://img.shields.io/badge/🌐_Google_Translate-4285F4?style=for-the-badge&logoColor=white)](https://translate.google.com/translate?sl=auto&tl=fr&u=https://github.com/AldeRoberge)
+
 I'm `Alexandre Demers-Roberge` but you can call me `Aldé` for short. I'm a digital creation consultant from Abitibi-Témiscamingue, Québec, with a Master's degree in digital creation from UQAT and over 8 years of hands-on experience in digital production.
 
 I work across the full creative production pipeline, from scripting, shooting, editing and publishing. My toolkit spans Unity / C#, the Adobe Suite, web dev, and applied AI for communication and content creation.
